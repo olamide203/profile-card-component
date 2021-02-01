@@ -25,10 +25,10 @@ h4 {
 }
 
 hr {
-  height: 0.5px;
+  height: 1px;
   width: 100%;
   margin: 0;
-  background-color: hsl(0, 6%, 91%);
+  background-color: hsl(0, 3%, 58%);
   border: none;
 }
 .main{
@@ -87,7 +87,7 @@ hr {
 }
 
 .card-footer {
-  padding: 25px 30px;
+  padding: 20px 30px;
   display: grid;
   width: 100%;
   grid-template-columns: 1fr 1fr 1fr;
